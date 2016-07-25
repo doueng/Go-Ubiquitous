@@ -1,4 +1,4 @@
-# Go-Ubiquitous
+# Go Ubiquitous
 
 This is a weather app with support for Android Wear.
 
